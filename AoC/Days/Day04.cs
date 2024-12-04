@@ -15,13 +15,6 @@
             new (1, -1),
         };
 
-        private readonly (int x, int y)[] _diagonalDirections = {
-            new (1, 1),
-            new (-1, 1),
-            new (-1, -1),
-            new (1, -1),
-        };
-
         private const string XmasWord = "XMAS";
         private const string MasWord = "MAS";
 
